@@ -31,7 +31,7 @@ import java.lang.reflect.InvocationTargetException;
  * of pre ant 1.6.
  *
  */
-public class AntTypeDefinition {
+public class AntTypeDefinition { 
     private String      name;
     private Class<?>       clazz;
     private Class<?>       adapterClass;
